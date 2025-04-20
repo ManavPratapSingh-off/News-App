@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+:root {
+  /* Light mode */
+  --bg: #ffffff;
+  --text: #1e1e1e;
+  --text-muted: #555555;
+  --nav-bg: #f5f5f5;
+  --link: #364153;
+  --hover : #e2e2e2;
+  --border: #e0e0e0;
+  --button-bg: #646cff;
+  --button-hover: #4f4fff;
+  --logo : #1e2939;
+  --loader-ring : #3B82F6;
+}
+
+[data-theme="dark"] {
+  --bg: #242424;
+  --text: #e0e0e0;
+  --text-muted: #a0a0a0;
+  --nav-bg: #1e1e2f;
+  --link: #34D399;
+  --hover : #2a2f4a;
+  --border: #3a3a3a;
+  --button-bg: #646cff;
+  --button-hover: #7a7aff;
+  --logo : #00FFC6;
+  --loader-ring : #00FFC6;
+}
+
+body {
+  background-color: var(--bg);
+  color : var(--text);
+}
+
+.nav-bar {
+  position : fixed;
+  display: grid;
+  width: 100%;
+  /* grid-template-rows: 4rem; */
+  grid-template-columns: 1fr 2fr 1fr;
+}
+
+.links {
+  grid-column: 2 / 3;
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.card-container {
+  width: 100vw;
+  height : 150vh;
+  display : flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 4rem;
+  padding-top: 6rem;
+  margin-bottom: 4rem;
+}
+
+.card {
+  width: 320px;
+  height: 320px;
+  cursor: pointer;
+  font-family: Arial, sans-serif;
+}
+
+.active-link {
+
+  color: var(--button-bg);
+  /* border-color: #007bff;
+  box-shadow: 0 4px 10px rgba(0, 123, 255, 0.3); */
+}

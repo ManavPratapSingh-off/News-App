@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "title": "Breaking: Major Event Shakes the City",
+    "description": "Breaking: Major Event Shakes the City \u2014 detailed coverage and insights inside.",
+    "author": "John Smith",
+    "source": "News Network",
+    "publishedAt": "2025-04-18T20:59:51.353546Z",
+    "url": "https://news.example.com/article/1",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+1"
+  },
+  {
+    "id": 2,
+    "title": "Technology Advances in 2025",
+    "description": "Technology Advances in 2025 \u2014 detailed coverage and insights inside.",
+    "author": "Jane Doe",
+    "source": "Tech World",
+    "publishedAt": "2025-04-17T19:59:51.353588Z",
+    "url": "https://news.example.com/article/2",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+2"
+  },
+  {
+    "id": 3,
+    "title": "Sports Update: Local Team Wins Championship",
+    "description": "Sports Update: Local Team Wins Championship \u2014 detailed coverage and insights inside.",
+    "author": "Mike Johnson",
+    "source": "Sports Daily",
+    "publishedAt": "2025-04-17T17:59:51.353601Z",
+    "url": "https://news.example.com/article/3",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+3"
+  },
+  {
+    "id": 4,
+    "title": "Health Tips for a Better Life",
+    "description": "Health Tips for a Better Life \u2014 detailed coverage and insights inside.",
+    "author": "Emily Brown",
+    "source": "Health Line",
+    "publishedAt": "2025-04-18T05:59:51.353619Z",
+    "url": "https://news.example.com/article/4",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+4"
+  },
+  {
+    "id": 5,
+    "title": "Market Trends and Financial Forecasts",
+    "description": "Market Trends and Financial Forecasts \u2014 detailed coverage and insights inside.",
+    "author": "Sarah Lee",
+    "source": "Finance Hub",
+    "publishedAt": "2025-04-18T01:59:51.353626Z",
+    "url": "https://news.example.com/article/5",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+5"
+  },
+  {
+    "id": 6,
+    "title": "New Discovery in Space Science",
+    "description": "New Discovery in Space Science \u2014 detailed coverage and insights inside.",
+    "author": "David Wilson",
+    "source": "Space Today",
+    "publishedAt": "2025-04-18T03:59:51.353632Z",
+    "url": "https://news.example.com/article/6",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+6"
+  },
+  {
+    "id": 7,
+    "title": "Local Community Rallies for Change",
+    "description": "Local Community Rallies for Change \u2014 detailed coverage and insights inside.",
+    "author": "Olivia Taylor",
+    "source": "Community Voice",
+    "publishedAt": "2025-04-18T09:59:51.353637Z",
+    "url": "https://news.example.com/article/7",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+7"
+  },
+  {
+    "id": 8,
+    "title": "Education Reform Plans Announced",
+    "description": "Education Reform Plans Announced \u2014 detailed coverage and insights inside.",
+    "author": "James Miller",
+    "source": "Edu Times",
+    "publishedAt": "2025-04-19T11:59:51.353644Z",
+    "url": "https://news.example.com/article/8",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+8"
+  },
+  {
+    "id": 9,
+    "title": "Climate Change and Global Impact",
+    "description": "Climate Change and Global Impact \u2014 detailed coverage and insights inside.",
+    "author": "Emma Davis",
+    "source": "Green Earth",
+    "publishedAt": "2025-04-17T14:59:51.353658Z",
+    "url": "https://news.example.com/article/9",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+9"
+  },
+  {
+    "id": 10,
+    "title": "New Smartphone Model Review",
+    "description": "New Smartphone Model Review \u2014 detailed coverage and insights inside.",
+    "author": "Chris Moore",
+    "source": "Gadget Geek",
+    "publishedAt": "2025-04-17T15:59:51.353666Z",
+    "url": "https://news.example.com/article/10",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+10"
+  },
+  {
+    "id": 11,
+    "title": "Art Exhibition Draws Huge Crowds",
+    "description": "Art Exhibition Draws Huge Crowds \u2014 detailed coverage and insights inside.",
+    "author": "Laura White",
+    "source": "Art Now",
+    "publishedAt": "2025-04-18T14:59:51.353684Z",
+    "url": "https://news.example.com/article/11",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+11"
+  },
+  {
+    "id": 12,
+    "title": "Exploring the World: Top Travel Destinations",
+    "description": "Exploring the World: Top Travel Destinations \u2014 detailed coverage and insights inside.",
+    "author": "Daniel Harris",
+    "source": "Travel Weekly",
+    "publishedAt": "2025-04-17T21:59:51.353690Z",
+    "url": "https://news.example.com/article/12",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+12"
+  },
+  {
+    "id": 13,
+    "title": "Breaking: Major Event Shakes the City",
+    "description": "Breaking: Major Event Shakes the City \u2014 detailed coverage and insights inside.",
+    "author": "John Smith",
+    "source": "News Network",
+    "publishedAt": "2025-04-18T07:59:51.353696Z",
+    "url": "https://news.example.com/article/13",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+13"
+  },
+  {
+    "id": 14,
+    "title": "Technology Advances in 2025",
+    "description": "Technology Advances in 2025 \u2014 detailed coverage and insights inside.",
+    "author": "Jane Doe",
+    "source": "Tech World",
+    "publishedAt": "2025-04-19T07:59:51.353702Z",
+    "url": "https://news.example.com/article/14",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+14"
+  },
+  {
+    "id": 15,
+    "title": "Sports Update: Local Team Wins Championship",
+    "description": "Sports Update: Local Team Wins Championship \u2014 detailed coverage and insights inside.",
+    "author": "Mike Johnson",
+    "source": "Sports Daily",
+    "publishedAt": "2025-04-18T21:59:51.353708Z",
+    "url": "https://news.example.com/article/15",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+15"
+  },
+  {
+    "id": 16,
+    "title": "Health Tips for a Better Life",
+    "description": "Health Tips for a Better Life \u2014 detailed coverage and insights inside.",
+    "author": "Emily Brown",
+    "source": "Health Line",
+    "publishedAt": "2025-04-19T05:59:51.353713Z",
+    "url": "https://news.example.com/article/16",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+16"
+  },
+  {
+    "id": 17,
+    "title": "Market Trends and Financial Forecasts",
+    "description": "Market Trends and Financial Forecasts \u2014 detailed coverage and insights inside.",
+    "author": "Sarah Lee",
+    "source": "Finance Hub",
+    "publishedAt": "2025-04-17T13:59:51.353718Z",
+    "url": "https://news.example.com/article/17",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+17"
+  },
+  {
+    "id": 18,
+    "title": "New Discovery in Space Science",
+    "description": "New Discovery in Space Science \u2014 detailed coverage and insights inside.",
+    "author": "David Wilson",
+    "source": "Space Today",
+    "publishedAt": "2025-04-18T11:59:51.353723Z",
+    "url": "https://news.example.com/article/18",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+18"
+  },
+  {
+    "id": 19,
+    "title": "Local Community Rallies for Change",
+    "description": "Local Community Rallies for Change \u2014 detailed coverage and insights inside.",
+    "author": "Olivia Taylor",
+    "source": "Community Voice",
+    "publishedAt": "2025-04-18T17:59:51.353728Z",
+    "url": "https://news.example.com/article/19",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+19"
+  },
+  {
+    "id": 20,
+    "title": "Education Reform Plans Announced",
+    "description": "Education Reform Plans Announced \u2014 detailed coverage and insights inside.",
+    "author": "James Miller",
+    "source": "Edu Times",
+    "publishedAt": "2025-04-18T08:59:51.353733Z",
+    "url": "https://news.example.com/article/20",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+20"
+  },
+  {
+    "id": 21,
+    "title": "Climate Change and Global Impact",
+    "description": "Climate Change and Global Impact \u2014 detailed coverage and insights inside.",
+    "author": "Emma Davis",
+    "source": "Green Earth",
+    "publishedAt": "2025-04-19T10:59:51.353744Z",
+    "url": "https://news.example.com/article/21",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+21"
+  },
+  {
+    "id": 22,
+    "title": "New Smartphone Model Review",
+    "description": "New Smartphone Model Review \u2014 detailed coverage and insights inside.",
+    "author": "Chris Moore",
+    "source": "Gadget Geek",
+    "publishedAt": "2025-04-17T18:59:51.353753Z",
+    "url": "https://news.example.com/article/22",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+22"
+  },
+  {
+    "id": 23,
+    "title": "Art Exhibition Draws Huge Crowds",
+    "description": "Art Exhibition Draws Huge Crowds \u2014 detailed coverage and insights inside.",
+    "author": "Laura White",
+    "source": "Art Now",
+    "publishedAt": "2025-04-18T13:59:51.353758Z",
+    "url": "https://news.example.com/article/23",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+23"
+  },
+  {
+    "id": 24,
+    "title": "Exploring the World: Top Travel Destinations",
+    "description": "Exploring the World: Top Travel Destinations \u2014 detailed coverage and insights inside.",
+    "author": "Daniel Harris",
+    "source": "Travel Weekly",
+    "publishedAt": "2025-04-19T08:59:51.353766Z",
+    "url": "https://news.example.com/article/24",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+24"
+  },
+  {
+    "id": 25,
+    "title": "Breaking: Major Event Shakes the City",
+    "description": "Breaking: Major Event Shakes the City \u2014 detailed coverage and insights inside.",
+    "author": "John Smith",
+    "source": "News Network",
+    "publishedAt": "2025-04-18T13:59:51.353774Z",
+    "url": "https://news.example.com/article/25",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+25"
+  },
+  {
+    "id": 26,
+    "title": "Technology Advances in 2025",
+    "description": "Technology Advances in 2025 \u2014 detailed coverage and insights inside.",
+    "author": "Jane Doe",
+    "source": "Tech World",
+    "publishedAt": "2025-04-17T17:59:51.353787Z",
+    "url": "https://news.example.com/article/26",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+26"
+  },
+  {
+    "id": 27,
+    "title": "Sports Update: Local Team Wins Championship",
+    "description": "Sports Update: Local Team Wins Championship \u2014 detailed coverage and insights inside.",
+    "author": "Mike Johnson",
+    "source": "Sports Daily",
+    "publishedAt": "2025-04-18T03:59:51.353795Z",
+    "url": "https://news.example.com/article/27",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+27"
+  },
+  {
+    "id": 28,
+    "title": "Health Tips for a Better Life",
+    "description": "Health Tips for a Better Life \u2014 detailed coverage and insights inside.",
+    "author": "Emily Brown",
+    "source": "Health Line",
+    "publishedAt": "2025-04-19T00:59:51.353803Z",
+    "url": "https://news.example.com/article/28",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+28"
+  },
+  {
+    "id": 29,
+    "title": "Market Trends and Financial Forecasts",
+    "description": "Market Trends and Financial Forecasts \u2014 detailed coverage and insights inside.",
+    "author": "Sarah Lee",
+    "source": "Finance Hub",
+    "publishedAt": "2025-04-18T07:59:51.353817Z",
+    "url": "https://news.example.com/article/29",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+29"
+  },
+  {
+    "id": 30,
+    "title": "New Discovery in Space Science",
+    "description": "New Discovery in Space Science \u2014 detailed coverage and insights inside.",
+    "author": "David Wilson",
+    "source": "Space Today",
+    "publishedAt": "2025-04-19T07:59:51.353833Z",
+    "url": "https://news.example.com/article/30",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+30"
+  },
+  {
+    "id": 31,
+    "title": "Local Community Rallies for Change",
+    "description": "Local Community Rallies for Change \u2014 detailed coverage and insights inside.",
+    "author": "Olivia Taylor",
+    "source": "Community Voice",
+    "publishedAt": "2025-04-18T02:59:51.353841Z",
+    "url": "https://news.example.com/article/31",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+31"
+  },
+  {
+    "id": 32,
+    "title": "Education Reform Plans Announced",
+    "description": "Education Reform Plans Announced \u2014 detailed coverage and insights inside.",
+    "author": "James Miller",
+    "source": "Edu Times",
+    "publishedAt": "2025-04-19T09:59:51.353853Z",
+    "url": "https://news.example.com/article/32",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+32"
+  },
+  {
+    "id": 33,
+    "title": "Climate Change and Global Impact",
+    "description": "Climate Change and Global Impact \u2014 detailed coverage and insights inside.",
+    "author": "Emma Davis",
+    "source": "Green Earth",
+    "publishedAt": "2025-04-18T20:59:51.353865Z",
+    "url": "https://news.example.com/article/33",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+33"
+  },
+  {
+    "id": 34,
+    "title": "New Smartphone Model Review",
+    "description": "New Smartphone Model Review \u2014 detailed coverage and insights inside.",
+    "author": "Chris Moore",
+    "source": "Gadget Geek",
+    "publishedAt": "2025-04-18T17:59:51.353870Z",
+    "url": "https://news.example.com/article/34",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+34"
+  },
+  {
+    "id": 35,
+    "title": "Art Exhibition Draws Huge Crowds",
+    "description": "Art Exhibition Draws Huge Crowds \u2014 detailed coverage and insights inside.",
+    "author": "Laura White",
+    "source": "Art Now",
+    "publishedAt": "2025-04-18T04:59:51.353875Z",
+    "url": "https://news.example.com/article/35",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+35"
+  },
+  {
+    "id": 36,
+    "title": "Exploring the World: Top Travel Destinations",
+    "description": "Exploring the World: Top Travel Destinations \u2014 detailed coverage and insights inside.",
+    "author": "Daniel Harris",
+    "source": "Travel Weekly",
+    "publishedAt": "2025-04-18T20:59:51.353881Z",
+    "url": "https://news.example.com/article/36",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+36"
+  },
+  {
+    "id": 37,
+    "title": "Breaking: Major Event Shakes the City",
+    "description": "Breaking: Major Event Shakes the City \u2014 detailed coverage and insights inside.",
+    "author": "John Smith",
+    "source": "News Network",
+    "publishedAt": "2025-04-18T22:59:51.353886Z",
+    "url": "https://news.example.com/article/37",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+37"
+  },
+  {
+    "id": 38,
+    "title": "Technology Advances in 2025",
+    "description": "Technology Advances in 2025 \u2014 detailed coverage and insights inside.",
+    "author": "Jane Doe",
+    "source": "Tech World",
+    "publishedAt": "2025-04-18T03:59:51.353891Z",
+    "url": "https://news.example.com/article/38",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+38"
+  },
+  {
+    "id": 39,
+    "title": "Sports Update: Local Team Wins Championship",
+    "description": "Sports Update: Local Team Wins Championship \u2014 detailed coverage and insights inside.",
+    "author": "Mike Johnson",
+    "source": "Sports Daily",
+    "publishedAt": "2025-04-18T06:59:51.353896Z",
+    "url": "https://news.example.com/article/39",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+39"
+  },
+  {
+    "id": 40,
+    "title": "Health Tips for a Better Life",
+    "description": "Health Tips for a Better Life \u2014 detailed coverage and insights inside.",
+    "author": "Emily Brown",
+    "source": "Health Line",
+    "publishedAt": "2025-04-18T05:59:51.353901Z",
+    "url": "https://news.example.com/article/40",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+40"
+  },
+  {
+    "id": 41,
+    "title": "Market Trends and Financial Forecasts",
+    "description": "Market Trends and Financial Forecasts \u2014 detailed coverage and insights inside.",
+    "author": "Sarah Lee",
+    "source": "Finance Hub",
+    "publishedAt": "2025-04-17T22:59:51.353906Z",
+    "url": "https://news.example.com/article/41",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+41"
+  },
+  {
+    "id": 42,
+    "title": "New Discovery in Space Science",
+    "description": "New Discovery in Space Science \u2014 detailed coverage and insights inside.",
+    "author": "David Wilson",
+    "source": "Space Today",
+    "publishedAt": "2025-04-17T19:59:51.353911Z",
+    "url": "https://news.example.com/article/42",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+42"
+  },
+  {
+    "id": 43,
+    "title": "Local Community Rallies for Change",
+    "description": "Local Community Rallies for Change \u2014 detailed coverage and insights inside.",
+    "author": "Olivia Taylor",
+    "source": "Community Voice",
+    "publishedAt": "2025-04-19T08:59:51.353915Z",
+    "url": "https://news.example.com/article/43",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+43"
+  },
+  {
+    "id": 44,
+    "title": "Education Reform Plans Announced",
+    "description": "Education Reform Plans Announced \u2014 detailed coverage and insights inside.",
+    "author": "James Miller",
+    "source": "Edu Times",
+    "publishedAt": "2025-04-17T22:59:51.353920Z",
+    "url": "https://news.example.com/article/44",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+44"
+  },
+  {
+    "id": 45,
+    "title": "Climate Change and Global Impact",
+    "description": "Climate Change and Global Impact \u2014 detailed coverage and insights inside.",
+    "author": "Emma Davis",
+    "source": "Green Earth",
+    "publishedAt": "2025-04-17T23:59:51.353925Z",
+    "url": "https://news.example.com/article/45",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+45"
+  },
+  {
+    "id": 46,
+    "title": "New Smartphone Model Review",
+    "description": "New Smartphone Model Review \u2014 detailed coverage and insights inside.",
+    "author": "Chris Moore",
+    "source": "Gadget Geek",
+    "publishedAt": "2025-04-18T10:59:51.353930Z",
+    "url": "https://news.example.com/article/46",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+46"
+  },
+  {
+    "id": 47,
+    "title": "Art Exhibition Draws Huge Crowds",
+    "description": "Art Exhibition Draws Huge Crowds \u2014 detailed coverage and insights inside.",
+    "author": "Laura White",
+    "source": "Art Now",
+    "publishedAt": "2025-04-18T23:59:51.353935Z",
+    "url": "https://news.example.com/article/47",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+47"
+  },
+  {
+    "id": 48,
+    "title": "Exploring the World: Top Travel Destinations",
+    "description": "Exploring the World: Top Travel Destinations \u2014 detailed coverage and insights inside.",
+    "author": "Daniel Harris",
+    "source": "Travel Weekly",
+    "publishedAt": "2025-04-18T03:59:51.353939Z",
+    "url": "https://news.example.com/article/48",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+48"
+  },
+  {
+    "id": 49,
+    "title": "Breaking: Major Event Shakes the City",
+    "description": "Breaking: Major Event Shakes the City \u2014 detailed coverage and insights inside.",
+    "author": "John Smith",
+    "source": "News Network",
+    "publishedAt": "2025-04-18T05:59:51.353944Z",
+    "url": "https://news.example.com/article/49",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+49"
+  },
+  {
+    "id": 50,
+    "title": "Technology Advances in 2025",
+    "description": "Technology Advances in 2025 \u2014 detailed coverage and insights inside.",
+    "author": "Jane Doe",
+    "source": "Tech World",
+    "publishedAt": "2025-04-18T11:59:51.353949Z",
+    "url": "https://news.example.com/article/50",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+50"
+  },
+  {
+    "id": 51,
+    "title": "Sports Update: Local Team Wins Championship",
+    "description": "Sports Update: Local Team Wins Championship \u2014 detailed coverage and insights inside.",
+    "author": "Mike Johnson",
+    "source": "Sports Daily",
+    "publishedAt": "2025-04-17T22:59:51.353953Z",
+    "url": "https://news.example.com/article/51",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+51"
+  },
+  {
+    "id": 52,
+    "title": "Health Tips for a Better Life",
+    "description": "Health Tips for a Better Life \u2014 detailed coverage and insights inside.",
+    "author": "Emily Brown",
+    "source": "Health Line",
+    "publishedAt": "2025-04-18T10:59:51.353958Z",
+    "url": "https://news.example.com/article/52",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+52"
+  },
+  {
+    "id": 53,
+    "title": "Market Trends and Financial Forecasts",
+    "description": "Market Trends and Financial Forecasts \u2014 detailed coverage and insights inside.",
+    "author": "Sarah Lee",
+    "source": "Finance Hub",
+    "publishedAt": "2025-04-18T05:59:51.353963Z",
+    "url": "https://news.example.com/article/53",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+53"
+  },
+  {
+    "id": 54,
+    "title": "New Discovery in Space Science",
+    "description": "New Discovery in Space Science \u2014 detailed coverage and insights inside.",
+    "author": "David Wilson",
+    "source": "Space Today",
+    "publishedAt": "2025-04-17T12:59:51.353968Z",
+    "url": "https://news.example.com/article/54",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+54"
+  },
+  {
+    "id": 55,
+    "title": "Local Community Rallies for Change",
+    "description": "Local Community Rallies for Change \u2014 detailed coverage and insights inside.",
+    "author": "Olivia Taylor",
+    "source": "Community Voice",
+    "publishedAt": "2025-04-18T06:59:51.353973Z",
+    "url": "https://news.example.com/article/55",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+55"
+  },
+  {
+    "id": 56,
+    "title": "Education Reform Plans Announced",
+    "description": "Education Reform Plans Announced \u2014 detailed coverage and insights inside.",
+    "author": "James Miller",
+    "source": "Edu Times",
+    "publishedAt": "2025-04-18T16:59:51.353978Z",
+    "url": "https://news.example.com/article/56",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+56"
+  },
+  {
+    "id": 57,
+    "title": "Climate Change and Global Impact",
+    "description": "Climate Change and Global Impact \u2014 detailed coverage and insights inside.",
+    "author": "Emma Davis",
+    "source": "Green Earth",
+    "publishedAt": "2025-04-18T08:59:51.353986Z",
+    "url": "https://news.example.com/article/57",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+57"
+  },
+  {
+    "id": 58,
+    "title": "New Smartphone Model Review",
+    "description": "New Smartphone Model Review \u2014 detailed coverage and insights inside.",
+    "author": "Chris Moore",
+    "source": "Gadget Geek",
+    "publishedAt": "2025-04-18T21:59:51.353991Z",
+    "url": "https://news.example.com/article/58",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+58"
+  },
+  {
+    "id": 59,
+    "title": "Art Exhibition Draws Huge Crowds",
+    "description": "Art Exhibition Draws Huge Crowds \u2014 detailed coverage and insights inside.",
+    "author": "Laura White",
+    "source": "Art Now",
+    "publishedAt": "2025-04-19T10:59:51.353997Z",
+    "url": "https://news.example.com/article/59",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+59"
+  },
+  {
+    "id": 60,
+    "title": "Exploring the World: Top Travel Destinations",
+    "description": "Exploring the World: Top Travel Destinations \u2014 detailed coverage and insights inside.",
+    "author": "Daniel Harris",
+    "source": "Travel Weekly",
+    "publishedAt": "2025-04-17T15:59:51.354005Z",
+    "url": "https://news.example.com/article/60",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+60"
+  },
+  {
+    "id": 61,
+    "title": "Breaking: Major Event Shakes the City",
+    "description": "Breaking: Major Event Shakes the City \u2014 detailed coverage and insights inside.",
+    "author": "John Smith",
+    "source": "News Network",
+    "publishedAt": "2025-04-19T10:59:51.354013Z",
+    "url": "https://news.example.com/article/61",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+61"
+  },
+  {
+    "id": 62,
+    "title": "Technology Advances in 2025",
+    "description": "Technology Advances in 2025 \u2014 detailed coverage and insights inside.",
+    "author": "Jane Doe",
+    "source": "Tech World",
+    "publishedAt": "2025-04-18T08:59:51.354021Z",
+    "url": "https://news.example.com/article/62",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+62"
+  },
+  {
+    "id": 63,
+    "title": "Sports Update: Local Team Wins Championship",
+    "description": "Sports Update: Local Team Wins Championship \u2014 detailed coverage and insights inside.",
+    "author": "Mike Johnson",
+    "source": "Sports Daily",
+    "publishedAt": "2025-04-19T05:59:51.354029Z",
+    "url": "https://news.example.com/article/63",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+63"
+  },
+  {
+    "id": 64,
+    "title": "Health Tips for a Better Life",
+    "description": "Health Tips for a Better Life \u2014 detailed coverage and insights inside.",
+    "author": "Emily Brown",
+    "source": "Health Line",
+    "publishedAt": "2025-04-18T15:59:51.354037Z",
+    "url": "https://news.example.com/article/64",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+64"
+  },
+  {
+    "id": 65,
+    "title": "Market Trends and Financial Forecasts",
+    "description": "Market Trends and Financial Forecasts \u2014 detailed coverage and insights inside.",
+    "author": "Sarah Lee",
+    "source": "Finance Hub",
+    "publishedAt": "2025-04-17T20:59:51.354045Z",
+    "url": "https://news.example.com/article/65",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+65"
+  },
+  {
+    "id": 66,
+    "title": "New Discovery in Space Science",
+    "description": "New Discovery in Space Science \u2014 detailed coverage and insights inside.",
+    "author": "David Wilson",
+    "source": "Space Today",
+    "publishedAt": "2025-04-18T04:59:51.354053Z",
+    "url": "https://news.example.com/article/66",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+66"
+  },
+  {
+    "id": 67,
+    "title": "Local Community Rallies for Change",
+    "description": "Local Community Rallies for Change \u2014 detailed coverage and insights inside.",
+    "author": "Olivia Taylor",
+    "source": "Community Voice",
+    "publishedAt": "2025-04-17T11:59:51.354061Z",
+    "url": "https://news.example.com/article/67",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+67"
+  },
+  {
+    "id": 68,
+    "title": "Education Reform Plans Announced",
+    "description": "Education Reform Plans Announced \u2014 detailed coverage and insights inside.",
+    "author": "James Miller",
+    "source": "Edu Times",
+    "publishedAt": "2025-04-17T17:59:51.354071Z",
+    "url": "https://news.example.com/article/68",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+68"
+  },
+  {
+    "id": 69,
+    "title": "Climate Change and Global Impact",
+    "description": "Climate Change and Global Impact \u2014 detailed coverage and insights inside.",
+    "author": "Emma Davis",
+    "source": "Green Earth",
+    "publishedAt": "2025-04-19T04:59:51.354080Z",
+    "url": "https://news.example.com/article/69",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+69"
+  },
+  {
+    "id": 70,
+    "title": "New Smartphone Model Review",
+    "description": "New Smartphone Model Review \u2014 detailed coverage and insights inside.",
+    "author": "Chris Moore",
+    "source": "Gadget Geek",
+    "publishedAt": "2025-04-17T21:59:51.354089Z",
+    "url": "https://news.example.com/article/70",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+70"
+  },
+  {
+    "id": 71,
+    "title": "Art Exhibition Draws Huge Crowds",
+    "description": "Art Exhibition Draws Huge Crowds \u2014 detailed coverage and insights inside.",
+    "author": "Laura White",
+    "source": "Art Now",
+    "publishedAt": "2025-04-18T07:59:51.354096Z",
+    "url": "https://news.example.com/article/71",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+71"
+  },
+  {
+    "id": 72,
+    "title": "Exploring the World: Top Travel Destinations",
+    "description": "Exploring the World: Top Travel Destinations \u2014 detailed coverage and insights inside.",
+    "author": "Daniel Harris",
+    "source": "Travel Weekly",
+    "publishedAt": "2025-04-18T05:59:51.354104Z",
+    "url": "https://news.example.com/article/72",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+72"
+  },
+  {
+    "id": 73,
+    "title": "Breaking: Major Event Shakes the City",
+    "description": "Breaking: Major Event Shakes the City \u2014 detailed coverage and insights inside.",
+    "author": "John Smith",
+    "source": "News Network",
+    "publishedAt": "2025-04-19T08:59:51.354113Z",
+    "url": "https://news.example.com/article/73",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+73"
+  },
+  {
+    "id": 74,
+    "title": "Technology Advances in 2025",
+    "description": "Technology Advances in 2025 \u2014 detailed coverage and insights inside.",
+    "author": "Jane Doe",
+    "source": "Tech World",
+    "publishedAt": "2025-04-19T07:59:51.354122Z",
+    "url": "https://news.example.com/article/74",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+74"
+  },
+  {
+    "id": 75,
+    "title": "Sports Update: Local Team Wins Championship",
+    "description": "Sports Update: Local Team Wins Championship \u2014 detailed coverage and insights inside.",
+    "author": "Mike Johnson",
+    "source": "Sports Daily",
+    "publishedAt": "2025-04-18T19:59:51.354130Z",
+    "url": "https://news.example.com/article/75",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+75"
+  },
+  {
+    "id": 76,
+    "title": "Health Tips for a Better Life",
+    "description": "Health Tips for a Better Life \u2014 detailed coverage and insights inside.",
+    "author": "Emily Brown",
+    "source": "Health Line",
+    "publishedAt": "2025-04-17T12:59:51.354140Z",
+    "url": "https://news.example.com/article/76",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+76"
+  },
+  {
+    "id": 77,
+    "title": "Market Trends and Financial Forecasts",
+    "description": "Market Trends and Financial Forecasts \u2014 detailed coverage and insights inside.",
+    "author": "Sarah Lee",
+    "source": "Finance Hub",
+    "publishedAt": "2025-04-17T19:59:51.354164Z",
+    "url": "https://news.example.com/article/77",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+77"
+  },
+  {
+    "id": 78,
+    "title": "New Discovery in Space Science",
+    "description": "New Discovery in Space Science \u2014 detailed coverage and insights inside.",
+    "author": "David Wilson",
+    "source": "Space Today",
+    "publishedAt": "2025-04-19T04:59:51.354174Z",
+    "url": "https://news.example.com/article/78",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+78"
+  },
+  {
+    "id": 79,
+    "title": "Local Community Rallies for Change",
+    "description": "Local Community Rallies for Change \u2014 detailed coverage and insights inside.",
+    "author": "Olivia Taylor",
+    "source": "Community Voice",
+    "publishedAt": "2025-04-18T04:59:51.354182Z",
+    "url": "https://news.example.com/article/79",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+79"
+  },
+  {
+    "id": 80,
+    "title": "Education Reform Plans Announced",
+    "description": "Education Reform Plans Announced \u2014 detailed coverage and insights inside.",
+    "author": "James Miller",
+    "source": "Edu Times",
+    "publishedAt": "2025-04-17T13:59:51.354190Z",
+    "url": "https://news.example.com/article/80",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+80"
+  },
+  {
+    "id": 81,
+    "title": "Climate Change and Global Impact",
+    "description": "Climate Change and Global Impact \u2014 detailed coverage and insights inside.",
+    "author": "Emma Davis",
+    "source": "Green Earth",
+    "publishedAt": "2025-04-18T05:59:51.354200Z",
+    "url": "https://news.example.com/article/81",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+81"
+  },
+  {
+    "id": 82,
+    "title": "New Smartphone Model Review",
+    "description": "New Smartphone Model Review \u2014 detailed coverage and insights inside.",
+    "author": "Chris Moore",
+    "source": "Gadget Geek",
+    "publishedAt": "2025-04-18T08:59:51.354209Z",
+    "url": "https://news.example.com/article/82",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+82"
+  },
+  {
+    "id": 83,
+    "title": "Art Exhibition Draws Huge Crowds",
+    "description": "Art Exhibition Draws Huge Crowds \u2014 detailed coverage and insights inside.",
+    "author": "Laura White",
+    "source": "Art Now",
+    "publishedAt": "2025-04-18T10:59:51.354218Z",
+    "url": "https://news.example.com/article/83",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+83"
+  },
+  {
+    "id": 84,
+    "title": "Exploring the World: Top Travel Destinations",
+    "description": "Exploring the World: Top Travel Destinations \u2014 detailed coverage and insights inside.",
+    "author": "Daniel Harris",
+    "source": "Travel Weekly",
+    "publishedAt": "2025-04-17T16:59:51.354234Z",
+    "url": "https://news.example.com/article/84",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+84"
+  },
+  {
+    "id": 85,
+    "title": "Breaking: Major Event Shakes the City",
+    "description": "Breaking: Major Event Shakes the City \u2014 detailed coverage and insights inside.",
+    "author": "John Smith",
+    "source": "News Network",
+    "publishedAt": "2025-04-17T22:59:51.354243Z",
+    "url": "https://news.example.com/article/85",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+85"
+  },
+  {
+    "id": 86,
+    "title": "Technology Advances in 2025",
+    "description": "Technology Advances in 2025 \u2014 detailed coverage and insights inside.",
+    "author": "Jane Doe",
+    "source": "Tech World",
+    "publishedAt": "2025-04-18T22:59:51.354251Z",
+    "url": "https://news.example.com/article/86",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+86"
+  },
+  {
+    "id": 87,
+    "title": "Sports Update: Local Team Wins Championship",
+    "description": "Sports Update: Local Team Wins Championship \u2014 detailed coverage and insights inside.",
+    "author": "Mike Johnson",
+    "source": "Sports Daily",
+    "publishedAt": "2025-04-19T04:59:51.354260Z",
+    "url": "https://news.example.com/article/87",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+87"
+  },
+  {
+    "id": 88,
+    "title": "Health Tips for a Better Life",
+    "description": "Health Tips for a Better Life \u2014 detailed coverage and insights inside.",
+    "author": "Emily Brown",
+    "source": "Health Line",
+    "publishedAt": "2025-04-17T17:59:51.354268Z",
+    "url": "https://news.example.com/article/88",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+88"
+  },
+  {
+    "id": 89,
+    "title": "Market Trends and Financial Forecasts",
+    "description": "Market Trends and Financial Forecasts \u2014 detailed coverage and insights inside.",
+    "author": "Sarah Lee",
+    "source": "Finance Hub",
+    "publishedAt": "2025-04-18T12:59:51.354277Z",
+    "url": "https://news.example.com/article/89",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+89"
+  },
+  {
+    "id": 90,
+    "title": "New Discovery in Space Science",
+    "description": "New Discovery in Space Science \u2014 detailed coverage and insights inside.",
+    "author": "David Wilson",
+    "source": "Space Today",
+    "publishedAt": "2025-04-18T02:59:51.354285Z",
+    "url": "https://news.example.com/article/90",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+90"
+  },
+  {
+    "id": 91,
+    "title": "Local Community Rallies for Change",
+    "description": "Local Community Rallies for Change \u2014 detailed coverage and insights inside.",
+    "author": "Olivia Taylor",
+    "source": "Community Voice",
+    "publishedAt": "2025-04-17T12:59:51.354294Z",
+    "url": "https://news.example.com/article/91",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+91"
+  },
+  {
+    "id": 92,
+    "title": "Education Reform Plans Announced",
+    "description": "Education Reform Plans Announced \u2014 detailed coverage and insights inside.",
+    "author": "James Miller",
+    "source": "Edu Times",
+    "publishedAt": "2025-04-18T02:59:51.354302Z",
+    "url": "https://news.example.com/article/92",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+92"
+  },
+  {
+    "id": 93,
+    "title": "Climate Change and Global Impact",
+    "description": "Climate Change and Global Impact \u2014 detailed coverage and insights inside.",
+    "author": "Emma Davis",
+    "source": "Green Earth",
+    "publishedAt": "2025-04-19T03:59:51.354310Z",
+    "url": "https://news.example.com/article/93",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+93"
+  },
+  {
+    "id": 94,
+    "title": "New Smartphone Model Review",
+    "description": "New Smartphone Model Review \u2014 detailed coverage and insights inside.",
+    "author": "Chris Moore",
+    "source": "Gadget Geek",
+    "publishedAt": "2025-04-19T08:59:51.354329Z",
+    "url": "https://news.example.com/article/94",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+94"
+  },
+  {
+    "id": 95,
+    "title": "Art Exhibition Draws Huge Crowds",
+    "description": "Art Exhibition Draws Huge Crowds \u2014 detailed coverage and insights inside.",
+    "author": "Laura White",
+    "source": "Art Now",
+    "publishedAt": "2025-04-17T17:59:51.354338Z",
+    "url": "https://news.example.com/article/95",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+95"
+  },
+  {
+    "id": 96,
+    "title": "Exploring the World: Top Travel Destinations",
+    "description": "Exploring the World: Top Travel Destinations \u2014 detailed coverage and insights inside.",
+    "author": "Daniel Harris",
+    "source": "Travel Weekly",
+    "publishedAt": "2025-04-18T00:59:51.354346Z",
+    "url": "https://news.example.com/article/96",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+96"
+  },
+  {
+    "id": 97,
+    "title": "Breaking: Major Event Shakes the City",
+    "description": "Breaking: Major Event Shakes the City \u2014 detailed coverage and insights inside.",
+    "author": "John Smith",
+    "source": "News Network",
+    "publishedAt": "2025-04-18T05:59:51.354354Z",
+    "url": "https://news.example.com/article/97",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+97"
+  },
+  {
+    "id": 98,
+    "title": "Technology Advances in 2025",
+    "description": "Technology Advances in 2025 \u2014 detailed coverage and insights inside.",
+    "author": "Jane Doe",
+    "source": "Tech World",
+    "publishedAt": "2025-04-18T11:59:51.354363Z",
+    "url": "https://news.example.com/article/98",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+98"
+  },
+  {
+    "id": 99,
+    "title": "Sports Update: Local Team Wins Championship",
+    "description": "Sports Update: Local Team Wins Championship \u2014 detailed coverage and insights inside.",
+    "author": "Mike Johnson",
+    "source": "Sports Daily",
+    "publishedAt": "2025-04-19T08:59:51.354372Z",
+    "url": "https://news.example.com/article/99",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+99"
+  },
+  {
+    "id": 100,
+    "title": "Health Tips for a Better Life",
+    "description": "Health Tips for a Better Life \u2014 detailed coverage and insights inside.",
+    "author": "Emily Brown",
+    "source": "Health Line",
+    "publishedAt": "2025-04-17T19:59:51.354383Z",
+    "url": "https://news.example.com/article/100",
+    "urlToImage": "https://via.placeholder.com/320x180?text=Image+100"
+  }
+]
