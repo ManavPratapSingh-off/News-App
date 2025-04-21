@@ -66,7 +66,7 @@ NewsApp/
    cd Trimester3Project/NewsApp
 
 2. **Accessing the web page**
-    ![web-page](--url--)
+    ![web-page](https://trimester3-project.vercel.app/)
 
 # React + Vite
 
