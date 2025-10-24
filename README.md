@@ -59,13 +59,10 @@ A responsive and modern news web page built with React that fetches real-time ar
 
 ## 🚀 Setup Instructions
 
-1. **Clone the repository**
+**Clone the repository**
    ```bash
    git clone https://github.com/ManavPratapSingh-off/Trimester3Project.git
-   cd Trimester3Project/NewsApp
-
-2. **Accessing the web page**
-    ![web-page](____)
+   cd Trimester3Project/NewsApp | npm run dev
 
 # React + Vite
 
